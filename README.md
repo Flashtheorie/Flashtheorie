@@ -11,3 +11,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+
+[![wakatime](https://wakatime.com/badge/user/5a562de7-4873-43df-b63c-542c66199ee8.svg)](https://wakatime.com/@5a562de7-4873-43df-b63c-542c66199ee8)

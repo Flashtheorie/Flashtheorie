@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, Je suis Antoine Pascual</h1>
+<h1 align="center">Salut 👋, Je suis Antoine</h1>
 <h3 align="center">Un étudiant en développement web, autodidacte depuis 10 ans.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flashtheorie&label=Profile%20views&color=0e75b6&style=flat" alt="flashtheorie" /> </p>

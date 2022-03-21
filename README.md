@@ -7,7 +7,8 @@ Surtout à l'aise en PHP, même s'il me reste ENORMEMENT à apprendre.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP        2 hrs 14 mins   ████████████████████████▓   98.22 %
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->

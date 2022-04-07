@@ -27,7 +27,7 @@ INI             4 mins          ░░░░░░░░░░░░░░░░
 
 [![wakatime](https://wakatime.com/badge/user/5a562de7-4873-43df-b63c-542c66199ee8.svg)](https://wakatime.com/@5a562de7-4873-43df-b63c-542c66199ee8)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flashtheorie&show_icons=true&locale=en&layout=compact" alt="flashtheorie" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flashtheorie&show_icons=true&locale=en" alt="flashtheorie" /></p>
 

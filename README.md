@@ -3,7 +3,9 @@
 <h4 align="center">Je souhaite passer de développeur LAMP à développeur MEAN</h4>
 Mes projets en Angular :
 <ul>
-  <li>test</li>  
+  <li>https://github.com/Flashtheorie/Curriculum-Vitae-en-Angular</li> 
+  <li>https://github.com/Flashtheorie/FromlowertoUPPER</li>
+  <li>https://github.com/Flashtheorie/TheRandomizer</li>
 </ul>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flashtheorie&label=Profile%20views&color=0e75b6&style=flat" alt="flashtheorie" /> </p>
 

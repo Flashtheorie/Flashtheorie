@@ -19,12 +19,12 @@ Mes projets en Angular :
 <!--START_SECTION:waka-->
 
 ```text
-HTML            13 hrs 33 mins  ██████████▒░░░░░░░░░░░░░░   41.48 %
-JavaScript      7 hrs 22 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
-TypeScript      7 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.63 %
-CSS             3 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-JSON            45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Markdown        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+JavaScript      12 hrs 38 mins  ████████▓░░░░░░░░░░░░░░░░   34.83 %
+HTML            11 hrs 9 mins   ███████▓░░░░░░░░░░░░░░░░░   30.71 %
+TypeScript      6 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
+CSS             3 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+EJS             1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+JSON            56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->

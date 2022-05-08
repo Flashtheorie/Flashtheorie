@@ -7,6 +7,7 @@
 
 - My latest projects
 <ul>
+  <li>https://github.com/Flashtheorie/que-regarder-sur-netflix</li>
   <li>https://github.com/Flashtheorie/Curriculum-Vitae-en-Angular</li> 
   <li>https://github.com/Flashtheorie/FromlowertoUPPER</li>
   <li>https://github.com/Flashtheorie/TheRandomizer</li>

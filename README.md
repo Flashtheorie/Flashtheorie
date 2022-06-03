@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">A self taught LAMP developper planning to become a MEAN stack developper</h3>
-
+<h3 align="center">After 15 years in the food industry, i've finally decided to pursue my dream and do, as a job, what i've been doing for 10 years as a hobby. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flashtheorie&label=Profile%20views&color=0e75b6&style=flat" alt="flashtheorie" /> </p>
 
 - 🌱 I’m currently learning **Angular**  and **NodeJS**

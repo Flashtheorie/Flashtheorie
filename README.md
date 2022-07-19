@@ -26,7 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP   0 secs          █████████████████████████   100.00 %
+Other   24 mins         █████████████████░░░░░░░░   68.34 %
 ```
 
 <!--END_SECTION:waka-->

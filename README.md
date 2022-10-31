@@ -7,6 +7,7 @@
 
 - My latest projects
 <ul>
+  <li>https://github.com/Flashtheorie/smollu</li>
   <li>https://github.com/Flashtheorie/Traffikee</li>
   <li>https://github.com/Flashtheorie/Curriculum-Vitae-en-Angular</li> 
   <li>https://github.com/Flashtheorie/FromlowertoUPPER</li>

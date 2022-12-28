@@ -7,6 +7,7 @@
 
 - My latest projects
 <ul>
+<li>https://github.com/Flashtheorie/todo-in-net-and-vue</li>
   <li><li>https://github.com/Flashtheorie/smollu</li></li>
   <li>https://github.com/Flashtheorie/Traffikee</li>
   <li>https://github.com/Flashtheorie/Curriculum-Vitae-en-Angular</li> 
@@ -26,11 +27,8 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flashtheorie&" alt="flashtheorie" /></p>
-<!--START_SECTION:waka-->
 
-```text
-No activity tracked
-```
 
-<!--END_SECTION:waka-->
+
+
 [![wakatime](https://wakatime.com/badge/user/5a562de7-4873-43df-b63c-542c66199ee8.svg)](https://wakatime.com/@5a562de7-4873-43df-b63c-542c66199ee8)

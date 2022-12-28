@@ -1,3 +1,4 @@
+<div align="center">
 # Antoine Pascual
 
 I am a self-taught LAMP developer with a dream of becoming a MEAN stack developer. After working in the food industry for 15 years, I have decided to turn my hobby of coding into a career.
@@ -31,3 +32,4 @@ I am proficient in the following languages and tools:
 - A bit of C#
 
 [![Profile Views](https://komarev.com/ghpvc/?username=flashtheorie&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/flashtheorie)
+</div>

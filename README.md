@@ -3,7 +3,7 @@
 <h3 align="center">After 15 years in the food industry, i've finally decided to pursue my dream and do, as a job, what i've been doing for 10 years as a hobby. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flashtheorie&label=Profile%20views&color=0e75b6&style=flat" alt="flashtheorie" /> </p>
 
-- 🌱 I’m currently learning **Angular**  and **NodeJS**
+- 🌱 I’m using **Angular**  and **NodeJS**
 
 - My latest projects
 <ul>

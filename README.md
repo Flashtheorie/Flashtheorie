@@ -7,6 +7,7 @@
 
 - My latest projects
 <ul>
+  <li>https://github.com/Flashtheorie/trackosrs</li>
 <li>https://github.com/Flashtheorie/todo-in-net-and-vue</li>
   <li>https://github.com/Flashtheorie/smollu</li>
   <li>https://github.com/Flashtheorie/Traffikee</li>
